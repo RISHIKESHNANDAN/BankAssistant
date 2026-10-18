@@ -1,0 +1,6 @@
+timestamp,employee_id,question,tools_used,answer
+2026-09-26T02:58:19.247163,EMP-001,Why is ACC-5004 frozen?,quick_search,"ACC‑5004 is frozen because a cheque bounced and the account was locked pending settlement of the associated fee.  
+- Its status is **Frozen** with the reason “Cheque bounce – account frozen pending fee settlement.”  
+- A **Debit** transaction of ₹450 labeled “Cheque bounce fee” was posted on 2025‑09‑12.  
+- The customer has filed a complaint (CMP‑02) disputing the freeze and the fee."
+2026-10-18T02:03:19.874268,EMP-001,hey  Customer says ACC-5005 isn't working,quick_search,"The account is blocked for outward transfers because the customer’s KYC is still pending. The failed transfer shows “KYC re‑verification pending – outward transfers blocked until KYC is completed,” and the customer record lists KYC status Pending. The account itself is Active with an active card and no limit‑related usage, so the KYC hold is the likely cause."
